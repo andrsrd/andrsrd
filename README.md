@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Check out my blog: [HERE](https://andrsrd.github.io/)
+Check out my blog @ https://andrsrd.github.io/
 
 
 
-message me @ androd@uio.no if any questions!
+message me @ androd@uio.no
