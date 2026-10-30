@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 Check out my blog: [https://andrsrd.github.io/](HERE)
+
+message me @ androd@uio.no if any questions!
